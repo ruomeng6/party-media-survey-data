@@ -114,13 +114,13 @@ In Sep.2022 and Mar.2023, we(Ruomeng Liu, Qinuo Yang, Wen Wang and Xuwei Yang) c
 
 ## variable explanation
 ### affective perception
-perception1~8 (prc_pos/neg) = Q1~8
+perception1 ~ 8 (prc_pos/neg) = Q1 ~ 8
 
 ### relational trust
-rl_trust1~8 (trst_) =Q9~16
+rl_trust1 ~ 8 (trst_) =Q9 ~ 16
 
 ### preference
-preference1~4(prf_) = Q17~21
+preference1 ~ 4(prf_) = Q17 ~ 21
 
 ### geographic info
 gender = Q22
